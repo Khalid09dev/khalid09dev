@@ -32,6 +32,9 @@ I'm a  front-end developer with a knack for creating beautiful and responsive we
 - Building projects with React and Redux.
 - Learning about Progressive Web Apps (PWAs).
 - Exploring UI/UX design principles.
+- Node.js: Getting familiar with server-side JavaScript.
+- Express.js: Learning to build web applications and APIs.
+- MongoDB: Exploring NoSQL databases and data modeling.
 
 ## 📬 Get in Touch
 
