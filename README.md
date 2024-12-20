@@ -5,8 +5,8 @@ Web Application Developer and Programming Enthusiast. Ready to Face New Challeng
 ## 🚀 About Me
 
 - 🔭 I’m currently working on building user-friendly interfaces and enhancing user experiences.
-- 🌱 I’m currently learning advanced JavaScript frameworks like React and Vue.js.
-- 💬 Ask me about HTML, CSS, JavaScript, and front-end development best practices.
+- 🌱 I’m currently learning advanced React frameworks Next.JS
+- 💬 Ask me about HTML, CSS, JavaScript, React and front-end development best practices.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khaliddev) | [Twitter](https://x.com/khalidwebdev)
 
 ## 🛠️ Technologies & Tools
