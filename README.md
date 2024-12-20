@@ -1,6 +1,6 @@
 # Hi there, I'm Khalid 👋
 
-I'm a  front-end developer with a knack for creating beautiful and responsive web applications. I love turning ideas into reality using modern web technologies.
+Web Application Developer and Programming Enthusiast. Ready to Face New Challenges.
 
 ## 🚀 About Me
 
